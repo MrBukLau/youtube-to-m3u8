@@ -67,6 +67,7 @@ jobs:
           ./mnews.sh
           ./newtvhitdrama.sh
           ./ptsnews.sh
+          ./setdrama.sh
           ./setinews.sh
           ./setnews.sh
           ./setnewsplus.sh
