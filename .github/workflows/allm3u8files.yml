@@ -1,0 +1,87 @@
+# This is a basic workflow to help you get started with Actions
+
+name: All M3U8 Files
+
+# Controls when the action will run. 
+on:
+  schedule:
+    - cron: '0 0/3 * * *'
+    
+  pull_request:
+    branches:
+      - main
+  
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+
+      # Runs a single command using the runners shell
+      #- name: Run a one-line script
+      #  run: echo testing!
+
+      # Runs a set of commands using the runners shell 
+      - name: config
+        run: |
+          git pull
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+      
+      
+      - name: Main
+        run: |
+          pwd
+          chmod +x *.sh
+          ./1905cctv6.sh
+          ./1905english.sh
+          ./1905herstory.sh
+          ./1905movieseries.sh
+          ./1905movietheater.sh
+          ./cctv4.sh
+          ./cctvdrama.sh
+          ./cctvhitdrama.sh
+          ./chinazonedrama.sh
+          ./chinazonedreamdrama.sh
+          ./ctinews.sh
+          ./ctinews2.sh
+          ./ctvnews.sh
+          ./daylightentertainmentdrama.sh
+          ./ebcfinancialnews.sh
+          ./ebcnews.sh
+          ./ftvnews.sh
+          ./globalfinancial.sh
+          ./globalnews.sh
+          ./gtvdrama.sh
+          ./kukandrama.sh
+          ./letvdrama.sh
+          ./mnews.sh
+          ./newtvhitdrama.sh
+          ./ptsnews.sh
+          ./setinews.sh
+          ./setnews.sh
+          ./setnewsplus.sh
+          ./ttvclassic.sh
+          ./ttvnews.sh
+          ./tvbs.sh
+          ./tvbsnews.sh
+          ./tvbsnewslive.sh
+        
+      - name: git add
+        run: |
+          git add -A
+          ls -la 
+          
+      - name: commit & push
+        run: |
+          git commit -m "Update all M3U8 files"
+          git push
