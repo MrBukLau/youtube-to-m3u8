@@ -58,6 +58,7 @@ jobs:
           ./daylightentertainmentdrama.sh
           ./ebcfinancialnews.sh
           ./ebcnews.sh
+          ./ftvdrama.sh
           ./ftvnews.sh
           ./globalfinancial.sh
           ./globalnews.sh
