@@ -67,6 +67,7 @@ jobs:
           ./letvdrama.sh
           ./mnews.sh
           ./newtvhitdrama.sh
+          ./phoenixinfonews.sh
           ./ptsnews.sh
           ./setdrama.sh
           ./setinews.sh
