@@ -62,6 +62,7 @@ jobs:
           ./globalfinancial.sh
           ./globalnews.sh
           ./gtvdrama.sh
+          ./iqiyi.sh
           ./kukandrama.sh
           ./letvdrama.sh
           ./mnews.sh
