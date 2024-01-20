@@ -12,6 +12,7 @@ python3 cctvdrama.py > ../streams/cctvdrama.m3u8
 python3 cctvhitdrama.py > ../streams/cctvhitdrama.m3u8
 python3 chinazonedrama.py > ../streams/chinazonedrama.m3u8
 python3 chinazonedreamdrama.py > ../streams/chinazonedreamdrama.m3u8
+python3 chineseonlinemoviechannel.py > ../streams/chineseonlinemoviechannel.m3u8
 python3 ctinews.py > ../streams/ctinews.m3u8
 python3 ctinews2.py > ../streams/ctinews2.m3u8
 python3 ctvnews.py > ../streams/ctvnews.m3u8
