@@ -25,10 +25,13 @@ python3 globalfinancial.py > ../streams/globalfinancial.m3u8
 python3 globalnews.py > ../streams/globalnews.m3u8
 python3 globalnewstaiwan.py > ../streams/globalnewstaiwan.m3u8
 python3 gtvdrama.py > ../streams/gtvdrama.m3u8
+python3 hairunmedia.py > ../streams/hairunmedia.m3u8
 python3 iqiyi.py > ../streams/iqiyi.m3u8
 python3 iqiyimovietheater.py > ../streams/iqiyimovietheater.m3u8
 python3 kukandrama.py > ../streams/kukandrama.m3u8
 python3 letvdrama.py > ../streams/letvdrama.m3u8
+python3 mangotv.py > ../streams/mangotv.m3u8
+python3 mangotvdrama.py > ../streams/mangotvdrama.m3u8
 python3 mnews.py > ../streams/mnews.m3u8
 python3 newtvhitdrama.py > ../streams/newtvhitdrama.m3u8
 python3 ntdaptv.py > ../streams/ntdaptv.m3u8
