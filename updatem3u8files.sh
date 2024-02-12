@@ -15,13 +15,14 @@ python3 chinazonedreamdrama.py > ../streams/chinazonedreamdrama.m3u8
 python3 chineseonlinemoviechannel.py > ../streams/chineseonlinemoviechannel.m3u8
 python3 ctinews.py > ../streams/ctinews.m3u8
 python3 ctinews2.py > ../streams/ctinews2.m3u8
+python3 ctvclassicdrama.py > ../streams/ctvclassicdrama.m3u8
 python3 ctvnews.py > ../streams/ctvnews.m3u8
 python3 daylightentertainmentdrama.py > ../streams/daylightentertainmentdrama.m3u8
 python3 ebcfinancialnews.py > ../streams/ebcfinancialnews.m3u8
 python3 ebcnews.py > ../streams/ebcnews.m3u8
 python3 ftvdrama.py > ../streams/ftvdrama.m3u8
 python3 ftvnews.py > ../streams/ftvnews.m3u8
-python3 globalfinancial.py > ../streams/globalfinancial.m3u8
+python3 globalfinancialnews.py > ../streams/globalfinancialnews.m3u8
 python3 globalnews.py > ../streams/globalnews.m3u8
 python3 globalnewstaiwan.py > ../streams/globalnewstaiwan.m3u8
 python3 gtvdrama.py > ../streams/gtvdrama.m3u8
@@ -43,6 +44,7 @@ python3 setnews.py > ../streams/setnews.m3u8
 python3 setnewsplus.py > ../streams/setnewsplus.m3u8
 python3 ttvclassic.py > ../streams/ttvclassic.m3u8
 python3 ttvnews.py > ../streams/ttvnews.m3u8
+python3 tvbbestdrama.py > ../streams/tvbbestdrama.m3u8
 python3 tvbs.py > ../streams/tvbs.m3u8
 python3 tvbsnews.py > ../streams/tvbsnews.m3u8
 python3 tvbsnewslive.py > ../streams/tvbsnewslive.m3u8
