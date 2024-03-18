@@ -2,5 +2,5 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-CCTV4 | | | |
-https://www.youtube.com/channel/UC4K_LI-Tn3-LshNgG0-YypQ/live
+Seeing Shanghai | | | |
+https://www.youtube.com/channel/UCR3JG231i5rbq8NnM9Gp02Q/live
