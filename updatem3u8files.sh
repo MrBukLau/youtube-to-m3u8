@@ -7,6 +7,8 @@ python3 1905english.py > ../streams/1905english.m3u8
 python3 1905herstory.py > ../streams/1905herstory.m3u8
 python3 1905movieseries.py > ../streams/1905movieseries.m3u8
 python3 1905movietheater.py > ../streams/1905movietheater.m3u8
+python3 battleoflove.py > ../streams/battleoflove.m3u8
+python3 bingbingshow.py > ../streams/bingbingshow.m3u8
 python3 cctv4.py > ../streams/cctv4.m3u8
 python3 cctvdrama.py > ../streams/cctvdrama.m3u8
 python3 cctvhitdrama.py > ../streams/cctvhitdrama.m3u8
@@ -28,12 +30,12 @@ python3 ebcfinancialnews.py > ../streams/ebcfinancialnews.m3u8
 python3 ebcnews.py > ../streams/ebcnews.m3u8
 python3 ftvdrama.py > ../streams/ftvdrama.m3u8
 python3 ftvnews.py > ../streams/ftvnews.m3u8
-python3 ftvzhugeclub.py > ../streams/ftvzhugeclub.m3u8
 python3 globalfinancialnews.py > ../streams/globalfinancialnews.m3u8
 python3 globalnews.py > ../streams/globalnews.m3u8
 python3 globalnewstaiwan.py > ../streams/globalnewstaiwan.m3u8
 python3 gtvdrama.py > ../streams/gtvdrama.m3u8
 python3 hairunmedia.py > ../streams/hairunmedia.m3u8
+python3 hungergames.py > ../streams/hungergames.m3u8
 python3 iqiyi.py > ../streams/iqiyi.m3u8
 python3 iqiyimovietheater.py > ../streams/iqiyimovietheater.m3u8
 python3 kukandrama.py > ../streams/kukandrama.m3u8
@@ -52,10 +54,12 @@ python3 setnews.py > ../streams/setnews.m3u8
 python3 setnewsplus.py > ../streams/setnewsplus.m3u8
 python3 studio886classictdrama.py > ../streams/studio886classictdrama.m3u8
 python3 studio886tw.py > ../streams/studio886tw.m3u8
+python3 taiwanpluslive.py > ../streams/taiwanpluslive.m3u8
 python3 ttvclassic.py > ../streams/ttvclassic.m3u8
 python3 ttvnews.py > ../streams/ttvnews.m3u8
 python3 tvbbestdrama.py > ../streams/tvbbestdrama.m3u8
 python3 tvbs.py > ../streams/tvbs.m3u8
 python3 tvbsnews.py > ../streams/tvbsnews.m3u8
 python3 tvbsnewslive.py > ../streams/tvbsnewslive.m3u8
+python3 zhugeclub.py > ../streams/zhugeclub.m3u8
 echo m3u8 grabbed
