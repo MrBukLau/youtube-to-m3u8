@@ -9,6 +9,7 @@ python3 1905movieseries.py > ../streams/1905movieseries.m3u8
 python3 1905movietheater.py > ../streams/1905movietheater.m3u8
 python3 battleoflove.py > ../streams/battleoflove.m3u8
 python3 bingbingshow.py > ../streams/bingbingshow.m3u8
+python3 caravancdrama.py > ../streams/caravancdrama.m3u8
 python3 cctv4.py > ../streams/cctv4.m3u8
 python3 cctvdrama.py > ../streams/cctvdrama.m3u8
 python3 cctvhitdrama.py > ../streams/cctvhitdrama.m3u8
@@ -28,6 +29,10 @@ python3 daaitelevision2.py > ../streams/daaitelevision2.m3u8
 python3 daylightentertainmentdrama.py > ../streams/daylightentertainmentdrama.m3u8
 python3 ebcfinancialnews.py > ../streams/ebcfinancialnews.m3u8
 python3 ebcnews.py > ../streams/ebcnews.m3u8
+python3 etmallch34.py > ../streams/etmallch34.m3u8
+python3 etmallch46.py > ../streams/etmallch46.m3u8
+python3 etmallch47.py > ../streams/etmallch47.m3u8
+python3 etmallch60.py > ../streams/etmallch60.m3u8
 python3 ftvdrama.py > ../streams/ftvdrama.m3u8
 python3 ftvnews.py > ../streams/ftvnews.m3u8
 python3 globalfinancialnews.py > ../streams/globalfinancialnews.m3u8
@@ -43,6 +48,8 @@ python3 letvdrama.py > ../streams/letvdrama.m3u8
 python3 mangotv.py > ../streams/mangotv.m3u8
 python3 mangotvdrama.py > ../streams/mangotvdrama.m3u8
 python3 mnews.py > ../streams/mnews.m3u8
+python3 momoch35.py > ../streams/momoch35.m3u8
+python3 momoch48.py > ../streams/momoch48.m3u8
 python3 newtvhitdrama.py > ../streams/newtvhitdrama.m3u8
 python3 ntdaptv.py > ../streams/ntdaptv.m3u8
 python3 phoenixinfonews.py > ../streams/phoenixinfonews.m3u8
@@ -52,6 +59,7 @@ python3 setdrama.py > ../streams/setdrama.m3u8
 python3 setinews.py > ../streams/setinews.m3u8
 python3 setnews.py > ../streams/setnews.m3u8
 python3 setnewsplus.py > ../streams/setnewsplus.m3u8
+python3 shanghaitv.py > ../streams/shanghaitv.m3u8
 python3 studio886classictdrama.py > ../streams/studio886classictdrama.m3u8
 python3 studio886tw.py > ../streams/studio886tw.m3u8
 python3 taiwanpluslive.py > ../streams/taiwanpluslive.m3u8
@@ -61,5 +69,7 @@ python3 tvbbestdrama.py > ../streams/tvbbestdrama.m3u8
 python3 tvbs.py > ../streams/tvbs.m3u8
 python3 tvbsnews.py > ../streams/tvbsnews.m3u8
 python3 tvbsnewslive.py > ../streams/tvbsnewslive.m3u8
+python3 vivatv1.py > ../streams/vivatv1.m3u8
+python3 vivatv2.py > ../streams/vivatv2.m3u8
 python3 zhugeclub.py > ../streams/zhugeclub.m3u8
 echo m3u8 grabbed
