@@ -23,6 +23,7 @@ python3 ctsnews.py > ../streams/ctsnews.m3u8
 python3 ctsshow.py > ../streams/ctsshow.m3u8
 python3 ctvclassic.py > ../streams/ctvclassic.m3u8
 python3 ctvclassicdrama.py > ../streams/ctvclassicdrama.m3u8
+python3 ctvmit.py > ../streams/ctvmit.m3u8
 python3 ctvnews.py > ../streams/ctvnews.m3u8
 python3 daaitelevision.py > ../streams/daaitelevision.m3u8
 python3 daaitelevision2.py > ../streams/daaitelevision2.m3u8
@@ -42,6 +43,7 @@ python3 gtvdrama.py > ../streams/gtvdrama.m3u8
 python3 hairunmedia.py > ../streams/hairunmedia.m3u8
 python3 hungergames.py > ../streams/hungergames.m3u8
 python3 iqiyi.py > ../streams/iqiyi.m3u8
+python3 iqiyicomedytheater.py > ../streams/iqiyicomedytheater.m3u8
 python3 iqiyimovietheater.py > ../streams/iqiyimovietheater.m3u8
 python3 kukandrama.py > ../streams/kukandrama.m3u8
 python3 letvdrama.py > ../streams/letvdrama.m3u8
@@ -57,12 +59,15 @@ python3 ptsnews.py > ../streams/ptsnews.m3u8
 python3 seeingshanghai.py > ../streams/seeingshanghai.m3u8
 python3 setdrama.py > ../streams/setdrama.m3u8
 python3 setinews.py > ../streams/setinews.m3u8
+python3 setlivenews.py > ../streams/setlivenews.m3u8
 python3 setnews.py > ../streams/setnews.m3u8
 python3 setnewsplus.py > ../streams/setnewsplus.m3u8
 python3 shanghaitv.py > ../streams/shanghaitv.m3u8
 python3 studio886classictdrama.py > ../streams/studio886classictdrama.m3u8
 python3 studio886tw.py > ../streams/studio886tw.m3u8
+python3 supercomedyleague.py > ../streams/supercomedyleague.m3u8
 python3 taiwanpluslive.py > ../streams/taiwanpluslive.m3u8
+python3 tencentvideoshow.py > ../streams/tencentvideoshow.m3u8
 python3 ttvclassic.py > ../streams/ttvclassic.m3u8
 python3 ttvnews.py > ../streams/ttvnews.m3u8
 python3 tvbbestdrama.py > ../streams/tvbbestdrama.m3u8
