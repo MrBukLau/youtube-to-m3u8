@@ -1,6 +1,0 @@
-~~ DO NOT EDIT THE FIRST 2 LINES	
-~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
-
-
-CTV MIT | | | |
-https://www.youtube.com/channel/UCKRjODp1ZYOSYNH5IA32g3Q/live
