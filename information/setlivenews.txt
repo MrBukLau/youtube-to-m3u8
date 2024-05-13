@@ -2,5 +2,5 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-SET Live NEWS | | | |
+SET Live News | | | |
 https://www.youtube.com/watch?v=FoBfXvlOR6I
