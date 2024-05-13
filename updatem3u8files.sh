@@ -23,7 +23,6 @@ python3 ctsnews.py > ../streams/ctsnews.m3u8
 python3 ctsshow.py > ../streams/ctsshow.m3u8
 python3 ctvclassic.py > ../streams/ctvclassic.m3u8
 python3 ctvclassicdrama.py > ../streams/ctvclassicdrama.m3u8
-python3 ctvmit.py > ../streams/ctvmit.m3u8
 python3 ctvnews.py > ../streams/ctvnews.m3u8
 python3 daaitelevision.py > ../streams/daaitelevision.m3u8
 python3 daaitelevision2.py > ../streams/daaitelevision2.m3u8
@@ -47,6 +46,7 @@ python3 iqiyicomedytheater.py > ../streams/iqiyicomedytheater.m3u8
 python3 iqiyimovietheater.py > ../streams/iqiyimovietheater.m3u8
 python3 kukandrama.py > ../streams/kukandrama.m3u8
 python3 letvdrama.py > ../streams/letvdrama.m3u8
+python3 madeintaiwan.py > ../streams/madeintaiwan.m3u8
 python3 mangotv.py > ../streams/mangotv.m3u8
 python3 mangotvdrama.py > ../streams/mangotvdrama.m3u8
 python3 mnews.py > ../streams/mnews.m3u8
