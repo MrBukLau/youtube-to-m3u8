@@ -1,0 +1,6 @@
+~~ DO NOT EDIT THE FIRST 2 LINES	
+~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
+
+
+Wonderland | | | |
+https://www.youtube.com/channel/UCfIuH1S2u-ccffOzzUJsyJQ/live

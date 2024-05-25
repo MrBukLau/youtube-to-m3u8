@@ -1,0 +1,6 @@
+~~ DO NOT EDIT THE FIRST 2 LINES	
+~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
+
+
+iQIYI Variety | | | |
+https://www.youtube.com/channel/UCQ6ptCagG3W0Bf4lexvnBEg/live

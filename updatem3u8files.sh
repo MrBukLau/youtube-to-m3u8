@@ -7,6 +7,7 @@ python3 1905english.py > ../streams/1905english.m3u8
 python3 1905herstory.py > ../streams/1905herstory.m3u8
 python3 1905movieseries.py > ../streams/1905movieseries.m3u8
 python3 1905movietheater.py > ../streams/1905movietheater.m3u8
+python3 8worldsg.py > ../streams/8worldsg.m3u8
 python3 battleoflove.py > ../streams/battleoflove.m3u8
 python3 bingbingshow.py > ../streams/bingbingshow.m3u8
 python3 caravancdrama.py > ../streams/caravancdrama.m3u8
@@ -42,9 +43,16 @@ python3 gtvdrama.py > ../streams/gtvdrama.m3u8
 python3 hairunmedia.py > ../streams/hairunmedia.m3u8
 python3 hungergames.py > ../streams/hungergames.m3u8
 python3 iqiyi.py > ../streams/iqiyi.m3u8
+python3 iqiyiactionmovie.py > ../streams/iqiyiactionmovie.m3u8
+python3 iqiyicdrama.py > ../streams/iqiyicdrama.m3u8
 python3 iqiyicomedytheater.py > ../streams/iqiyicomedytheater.m3u8
+python3 iqiyikungfumovie.py > ../streams/iqiyikungfumovie.m3u8
+python3 iqiyimovieenglish.py > ../streams/iqiyimovieenglish.m3u8
 python3 iqiyimovietheater.py > ../streams/iqiyimovietheater.m3u8
+python3 iqiyiromance.py > ../streams/iqiyiromance.m3u8
+python3 iqiyivariety.py > ../streams/iqiyivariety.m3u8
 python3 kukandrama.py > ../streams/kukandrama.m3u8
+python3 lemonfilms.py > ../streams/lemonfilms.m3u8
 python3 letvdrama.py > ../streams/letvdrama.m3u8
 python3 madeintaiwan.py > ../streams/madeintaiwan.m3u8
 python3 mangotv.py > ../streams/mangotv.m3u8
@@ -76,5 +84,7 @@ python3 tvbsnews.py > ../streams/tvbsnews.m3u8
 python3 tvbsnewslive.py > ../streams/tvbsnewslive.m3u8
 python3 vivatv1.py > ../streams/vivatv1.m3u8
 python3 vivatv2.py > ../streams/vivatv2.m3u8
+python3 wetvhotshow.py > ../streams/wetvhotshow.m3u8
+python3 wonderland.py > ../streams/wonderland.m3u8
 python3 zhugeclub.py > ../streams/zhugeclub.m3u8
 echo m3u8 grabbed
