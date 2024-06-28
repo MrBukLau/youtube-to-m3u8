@@ -16,7 +16,7 @@ jobs:
                 git pull
                 git config --local user.email "action@github.com"
                 git config --local user.name "GitHub Action"
-            - name: Run shell scripts
+            - name: Run shell script
               run: |
                 pwd
                 chmod +x updatem3u8files.sh
