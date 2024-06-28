@@ -7,11 +7,14 @@ python3 battleoflove.py > ../streams/battleoflove.m3u8
 python3 bingbingshow.py > ../streams/bingbingshow.m3u8
 python3 caravancdrama.py > ../streams/caravancdrama.m3u8
 python3 cctv4.py > ../streams/cctv4.m3u8
+python3 cctvdocumentary.py > ../streams/cctvdocumentary.m3u8
 python3 cctvdrama.py > ../streams/cctvdrama.m3u8
 python3 cctvhitdrama.py > ../streams/cctvhitdrama.m3u8
+python3 chinazonedocumentary.py > ../streams/chinazonedocumentary.m3u8
 python3 chinazonedrama.py > ../streams/chinazonedrama.m3u8
 python3 chinazonedreamdrama.py > ../streams/chinazonedreamdrama.m3u8
 python3 chineseonlinemoviechannel.py > ../streams/chineseonlinemoviechannel.m3u8
+python3 cna.py > ../streams/cna.m3u8
 python3 ctinews.py > ../streams/ctinews.m3u8
 python3 ctinews2.py > ../streams/ctinews2.m3u8
 python3 ctsdrama.py > ../streams/ctsdrama.m3u8
@@ -52,6 +55,8 @@ python3 letvdrama.py > ../streams/letvdrama.m3u8
 python3 madeintaiwan.py > ../streams/madeintaiwan.m3u8
 python3 mangotv.py > ../streams/mangotv.m3u8
 python3 mangotvdrama.py > ../streams/mangotvdrama.m3u8
+python3 mediacorpdrama.py > ../streams/mediacorpdrama.m3u8
+python3 mediacorpentertainment.py > ../streams/mediacorpentertainment.m3u8
 python3 mnews.py > ../streams/mnews.m3u8
 python3 momoch35.py > ../streams/momoch35.m3u8
 python3 momoch48.py > ../streams/momoch48.m3u8
