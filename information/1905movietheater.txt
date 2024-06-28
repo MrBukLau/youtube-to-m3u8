@@ -1,6 +1,0 @@
-~~ DO NOT EDIT THE FIRST 2 LINES	
-~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
-
-
-1905 Movie Theater | | | |
-https://www.youtube.com/channel/UCnXAVNOIqCMqgN9yHwSfXdQ/live
