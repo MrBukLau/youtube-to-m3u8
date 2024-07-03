@@ -1,6 +1,0 @@
-~~ DO NOT EDIT THE FIRST 2 LINES	
-~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
-
-
-NewTV Hit Drama | | | |
-https://www.youtube.com/channel/UCKn4SloJmZYNYNq6RgzgrHw/live
