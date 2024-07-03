@@ -13,8 +13,6 @@ python3 cctvhitdrama.py > ../streams/cctvhitdrama.m3u8
 python3 chinazonedocumentary.py > ../streams/chinazonedocumentary.m3u8
 python3 chinazonedrama.py > ../streams/chinazonedrama.m3u8
 python3 chinazonedreamdrama.py > ../streams/chinazonedreamdrama.m3u8
-python3 chineseonlinemoviechannel.py > ../streams/chineseonlinemoviechannel.m3u8
-python3 cna.py > ../streams/cna.m3u8
 python3 ctinews.py > ../streams/ctinews.m3u8
 python3 ctinews2.py > ../streams/ctinews2.m3u8
 python3 ctsdrama.py > ../streams/ctsdrama.m3u8
@@ -49,18 +47,14 @@ python3 iqiyimovieenglish.py > ../streams/iqiyimovieenglish.m3u8
 python3 iqiyimovietheater.py > ../streams/iqiyimovietheater.m3u8
 python3 iqiyiromance.py > ../streams/iqiyiromance.m3u8
 python3 iqiyivariety.py > ../streams/iqiyivariety.m3u8
-python3 kukandrama.py > ../streams/kukandrama.m3u8
-python3 lemonfilms.py > ../streams/lemonfilms.m3u8
 python3 letvdrama.py > ../streams/letvdrama.m3u8
 python3 madeintaiwan.py > ../streams/madeintaiwan.m3u8
 python3 mangotv.py > ../streams/mangotv.m3u8
-python3 mangotvdrama.py > ../streams/mangotvdrama.m3u8
 python3 mediacorpdrama.py > ../streams/mediacorpdrama.m3u8
 python3 mediacorpentertainment.py > ../streams/mediacorpentertainment.m3u8
 python3 mnews.py > ../streams/mnews.m3u8
 python3 momoch35.py > ../streams/momoch35.m3u8
 python3 momoch48.py > ../streams/momoch48.m3u8
-python3 newtvhitdrama.py > ../streams/newtvhitdrama.m3u8
 python3 ntdaptv.py > ../streams/ntdaptv.m3u8
 python3 phoenixinfonews.py > ../streams/phoenixinfonews.m3u8
 python3 ptsnews.py > ../streams/ptsnews.m3u8
@@ -71,11 +65,9 @@ python3 setlivenews.py > ../streams/setlivenews.m3u8
 python3 setnews.py > ../streams/setnews.m3u8
 python3 setnewsplus.py > ../streams/setnewsplus.m3u8
 python3 shanghaitv.py > ../streams/shanghaitv.m3u8
-python3 studio886classictdrama.py > ../streams/studio886classictdrama.m3u8
 python3 studio886tw.py > ../streams/studio886tw.m3u8
 python3 supercomedyleague.py > ../streams/supercomedyleague.m3u8
 python3 taiwanpluslive.py > ../streams/taiwanpluslive.m3u8
-python3 tencentvideoshow.py > ../streams/tencentvideoshow.m3u8
 python3 ttvclassic.py > ../streams/ttvclassic.m3u8
 python3 ttvnews.py > ../streams/ttvnews.m3u8
 python3 tvbbestdrama.py > ../streams/tvbbestdrama.m3u8
@@ -84,7 +76,5 @@ python3 tvbsnews.py > ../streams/tvbsnews.m3u8
 python3 tvbsnewslive.py > ../streams/tvbsnewslive.m3u8
 python3 vivatv1.py > ../streams/vivatv1.m3u8
 python3 vivatv2.py > ../streams/vivatv2.m3u8
-python3 wetvhotshow.py > ../streams/wetvhotshow.m3u8
-python3 wonderland.py > ../streams/wonderland.m3u8
 python3 zhugeclub.py > ../streams/zhugeclub.m3u8
 echo m3u8 grabbed
