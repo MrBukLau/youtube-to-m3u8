@@ -3,8 +3,8 @@ echo $(dirname $0)
 python3 -m pip install requests
 cd $(dirname $0)/scripts/
 python3 8worldsg.py > ../streams/8worldsg.m3u8
+python3 asiasatellitetelevision.py > ../streams/asiasatellitetelevision.m3u8
 python3 battleoflove.py > ../streams/battleoflove.m3u8
-python3 bingbingshow.py > ../streams/bingbingshow.m3u8
 python3 caravancdrama.py > ../streams/caravancdrama.m3u8
 python3 cctv4.py > ../streams/cctv4.m3u8
 python3 cctvdocumentary.py > ../streams/cctvdocumentary.m3u8
@@ -15,6 +15,7 @@ python3 chinazonedrama.py > ../streams/chinazonedrama.m3u8
 python3 chinazonedreamdrama.py > ../streams/chinazonedreamdrama.m3u8
 python3 ctinews.py > ../streams/ctinews.m3u8
 python3 ctinews2.py > ../streams/ctinews2.m3u8
+python3 ctiplus.py > ../streams/ctiplus.m3u8
 python3 ctsdrama.py > ../streams/ctsdrama.m3u8
 python3 ctsnews.py > ../streams/ctsnews.m3u8
 python3 ctsshow.py > ../streams/ctsshow.m3u8
@@ -70,7 +71,6 @@ python3 supercomedyleague.py > ../streams/supercomedyleague.m3u8
 python3 taiwanpluslive.py > ../streams/taiwanpluslive.m3u8
 python3 ttvclassic.py > ../streams/ttvclassic.m3u8
 python3 ttvnews.py > ../streams/ttvnews.m3u8
-python3 tvbbestdrama.py > ../streams/tvbbestdrama.m3u8
 python3 tvbs.py > ../streams/tvbs.m3u8
 python3 tvbsnews.py > ../streams/tvbsnews.m3u8
 python3 tvbsnewslive.py > ../streams/tvbsnewslive.m3u8
