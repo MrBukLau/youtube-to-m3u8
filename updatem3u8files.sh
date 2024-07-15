@@ -14,7 +14,6 @@ python3 chinazonedocumentary.py > ../streams/chinazonedocumentary.m3u8
 python3 chinazonedrama.py > ../streams/chinazonedrama.m3u8
 python3 chinazonedreamdrama.py > ../streams/chinazonedreamdrama.m3u8
 python3 ctinews.py > ../streams/ctinews.m3u8
-python3 ctinews2.py > ../streams/ctinews2.m3u8
 python3 ctiplus.py > ../streams/ctiplus.m3u8
 python3 ctsdrama.py > ../streams/ctsdrama.m3u8
 python3 ctsnews.py > ../streams/ctsnews.m3u8
@@ -31,6 +30,7 @@ python3 etmallch34.py > ../streams/etmallch34.m3u8
 python3 etmallch46.py > ../streams/etmallch46.m3u8
 python3 etmallch47.py > ../streams/etmallch47.m3u8
 python3 etmallch60.py > ../streams/etmallch60.m3u8
+python3 ettodaynews.py > ../streams/ettodaynews.m3u8
 python3 ftvdrama.py > ../streams/ftvdrama.m3u8
 python3 ftvnews.py > ../streams/ftvnews.m3u8
 python3 globalfinancialnews.py > ../streams/globalfinancialnews.m3u8
